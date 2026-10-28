@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tahmina Akrami
 
-<!--
-**tahminaakrami132-boop/tahminaakrami132-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+Creating beautiful, responsive websites and engaging digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+
+- HTML & CSS
+- JavaScript
+- Bootstrap
+- Artificial Intelligence (AI)
+- Deep Learning
+
+### My Projects
+
+- [Wedding Card](https://github.com/tahminaakrami/wedding-card)
+- [Evergreen Studio](https://github.com/tahminaakrami/Evergreen-Studio)
+- [The World of Flowers](https://github.com/tahminaakrami/The-World-of-Flowers)
+
+### My Focus
+
+Building modern, user-friendly websites and exploring new technologies.
+
+### Connect With Me
+
+- GitHub: [tahminaakrami](https://github.com/tahminaakrami)
